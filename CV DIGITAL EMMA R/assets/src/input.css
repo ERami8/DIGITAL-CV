@@ -1,0 +1,9 @@
+/*aqui están las propiedades de los colores, espacios, tipografía*/
+@tailwind base;
+
+/*aqui están las propiedades de inputs,botones*/
+@tailwind components;
+
+/* aqui están las clases de utilidad propias de Tailwind como sm: container etc..*/
+@tailwind utilities;
+
